@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+tmp/
+build_house_price_project.py
